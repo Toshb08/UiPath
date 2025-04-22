@@ -1,0 +1,62 @@
+Toshita Bhagwate
+Trainee Software Engineer
+
+ Pune  +917385257145  toshb08@gmail.com
+
+Summary Hardworking and motivated individual eager to apply skills and learn new ones
+to add value. Adaptable and resourceful, with a strong work ethic and focus on
+growth, efficiency, and team success.
+
+Education
+AISSMS Institute of Information Technology
+Computer Engineering
+8.77
+November 2022 - Present
+BTech
+
+S.N.B.P Jr. College
+Science
+77%
+2022
+Senior Secondary (XII - HSC)
+
+Dr. (Mrs) Erin N. Nagarvala Day School
+96.2%
+2020
+Secondary (X - SSC)
+
+Projects Random Password Generator
+Robust, easy-to-use Java application utilizing Java Swing.
+
+QR Code Genrator
+Designed and implemented a QR Code Generator enabling dynamic conversion
+of user-inputted text or URLs into QR images.
+
+Skills Python
+
+C Programming
+
+C++ Programming
+
+HTML/CSS
+
+Java
+
+MySQL/ MongoDB
+
+REST API
+
+Certifications
+Java Programming
+GeeksforGeeks
+
+AWS CLOUD
+Internship Studio
+
+Postman API Fundamentals
+GeeksforGeeks, Postman
+
+Soft Skills
+Rubicon
+
+Languages French
